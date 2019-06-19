@@ -1,0 +1,16 @@
+#page-coursereport-course_log-index .info {
+    margin: 10px;
+}
+
+#page-coursereport-course_log-index .logselectform {
+    margin: 10px auto;
+}
+
+#page-coursereport-course_log-user .info {
+    margin: 10px;
+    text-align: center;
+}
+
+#page-coursereport-course_log-index .selectDate {
+    height:25px;
+}
